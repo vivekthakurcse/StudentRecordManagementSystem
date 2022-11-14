@@ -1,1 +1,1 @@
-# StudentRecordManagementSystem.
+# StudentRecordManagementSystem
